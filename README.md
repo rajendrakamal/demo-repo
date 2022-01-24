@@ -6,3 +6,6 @@ Demo repository for GIT tutorials.
 
 Watch the tutorial
 
+## Local Development
+
+1. open index.html in your browser.
